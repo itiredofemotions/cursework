@@ -1,0 +1,7 @@
+D:\JetBrains\JetBrains Rider 2021.3.3\projects\fefu\CourseWork\bin\Debug\CourseWork.exe
+D:\JetBrains\JetBrains Rider 2021.3.3\projects\fefu\CourseWork\bin\Debug\CourseWork.pdb
+D:\JetBrains\JetBrains Rider 2021.3.3\projects\fefu\CourseWork\obj\Debug\CourseWork.csproj.AssemblyReference.cache
+D:\JetBrains\JetBrains Rider 2021.3.3\projects\fefu\CourseWork\obj\Debug\CourseWork.csproj.SuggestedBindingRedirects.cache
+D:\JetBrains\JetBrains Rider 2021.3.3\projects\fefu\CourseWork\obj\Debug\CourseWork.csproj.CoreCompileInputs.cache
+D:\JetBrains\JetBrains Rider 2021.3.3\projects\fefu\CourseWork\obj\Debug\CourseWork.exe
+D:\JetBrains\JetBrains Rider 2021.3.3\projects\fefu\CourseWork\obj\Debug\CourseWork.pdb

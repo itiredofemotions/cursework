@@ -1,0 +1,7 @@
+D:\JetBrains\JetBrains Rider 2021.3.3\projects\fefu\windows\obj\Debug\windows.csproj.AssemblyReference.cache
+D:\JetBrains\JetBrains Rider 2021.3.3\projects\fefu\windows\obj\Debug\windows.csproj.SuggestedBindingRedirects.cache
+D:\JetBrains\JetBrains Rider 2021.3.3\projects\fefu\windows\obj\Debug\windows.csproj.CoreCompileInputs.cache
+D:\JetBrains\JetBrains Rider 2021.3.3\projects\fefu\windows\bin\Debug\windows.exe
+D:\JetBrains\JetBrains Rider 2021.3.3\projects\fefu\windows\bin\Debug\windows.pdb
+D:\JetBrains\JetBrains Rider 2021.3.3\projects\fefu\windows\obj\Debug\windows.exe
+D:\JetBrains\JetBrains Rider 2021.3.3\projects\fefu\windows\obj\Debug\windows.pdb
